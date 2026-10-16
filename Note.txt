@@ -1,0 +1,5 @@
+**1. Sai phân cấp tiêu đề:** Dùng `#` (H1) rồi chuyển ngay sang `###` (H3), bỏ qua H2. Đây là lỗi tổ chức tiêu đề, khiến mục phụ nhỏ hơn và không đúng cấp. Sửa thành `## Danh sách các loại rau`.
+
+**2. Sai cú pháp chèn ảnh:** Dòng `[Logo Dự án] (...)` thiếu dấu `!`, có khoảng trắng giữa `]` và `(`, đồng thời lồng thêm cú pháp liên kết bên trong. Vì vậy, Markdown không nhận diện đúng hình ảnh. Sửa thành `![Logo Dự án](https://greentech.vn/logo.png)`.
+
+**3. Sai cú pháp in đậm:** Dòng `*Rất quan trọng` chỉ có một dấu sao ở đầu và thiếu dấu đóng, nên chữ không được in đậm. Sửa thành `**Rất quan trọng**`.
